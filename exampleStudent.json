@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Souvik Mondal",
+        "password": "1234",
+        "hostelID": "627bda550e7e3a20fb592311",
+        "foodPrefarence": "nonVeg",
+        "presentStatus": "present",
+        "personalNumber": "0000000000",
+        "guardianNumber": "0000000001",
+        "roomNo": 30
+    },
+    {
+        "name": "Asif",
+        "password": "1234",
+        "hostelID": "627bda550e7e3a20fb592311",
+        "foodPrefarence": "veg",
+        "presentStatus": "absent",
+        "personalNumber": "1111111111",
+        "guardianNumber": "1111111112",
+        "roomNo": 30
+    },
+    {
+        "name": "Aminul",
+        "password": "1234",
+        "hostelID": "627bda550e7e3a20fb592311",
+        "foodPrefarence": "nonVeg",
+        "presentStatus": "absent",
+        "personalNumber": "2222222222",
+        "guardianNumber": "2222222223",
+        "roomNo": 30
+    },
+    {
+        "name": "person_2_1",
+        "password": "1234",
+        "hostelID": "627bd6c7ab1ddb9344881aa2",
+        "foodPrefarence": "veg",
+        "presentStatus": "present",
+        "personalNumber": "3333333333",
+        "guardianNumber": "3333333334",
+        "roomNo": 30
+    },
+    {
+        "name": "person_2_2",
+        "password": "1234",
+        "hostelID": "627bd6c7ab1ddb9344881aa2",
+        "foodPrefarence": "nonVeg",
+        "presentStatus": "present",
+        "personalNumber": "4444444444",
+        "guardianNumber": "4444444445",
+        "roomNo": 30
+    },
+    {
+        "name": "person_2_3",
+        "password": "1234",
+        "hostelID": "627bd6c7ab1ddb9344881aa2",
+        "foodPrefarence": "veg",
+        "presentStatus": "absent",
+        "personalNumber": "5555555555",
+        "guardianNumber": "5555555556",
+        "roomNo": 30
+    },
+    {
+        "name": "person_2_4",
+        "password": "1234",
+        "hostelID": "627bd6c7ab1ddb9344881aa2",
+        "foodPrefarence": "nonVeg",
+        "presentStatus": "absent",
+        "personalNumber": "5555555557",
+        "guardianNumber": "7777777777",
+        "roomNo": 30
+    }
+]

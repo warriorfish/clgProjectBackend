@@ -1,0 +1,14 @@
+#ignore node modules
+node_modules
+
+#ignore all text files
+*.text
+
+#ignore example.json
+exampleStudent.json
+
+#ignore access_Secret_key
+.env
+
+#ignore request client file
+request.http
